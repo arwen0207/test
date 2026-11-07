@@ -1,0 +1,6 @@
+{
+  "name": "중학교 과학 손 제스처 퀴즈 (MediaPipe)",
+  "description": "MediaPipe Hand Landmarker 기반 온디바이스 손가락 제스처로 푸는 중학교 과학 4지선다 10문제 웹앱. 카메라와 마우스 클릭 모두 지원.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
